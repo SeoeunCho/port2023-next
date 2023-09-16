@@ -1,3 +1,4 @@
+import about from "../assets/img/about.jpg";
 import project01 from "../assets/img/portfolio01-thumbnail.png";
 
 export const headerNav = [
@@ -31,6 +32,7 @@ export const headerNav = [
 export const introText = {
   title: "frontend developer",
   desc: ["talent is", "fount at the end of the", "effort"],
+  imgUrl: about,
 };
 
 export const skillText = [
