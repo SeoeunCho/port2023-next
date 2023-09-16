@@ -2,22 +2,27 @@ import project01 from "../assets/img/portfolio01-thumbnail.png";
 
 export const headerNav = [
   {
+    id: 1,
     title: "intro",
     url: "#intro",
   },
   {
+    id: 2,
     title: "skill",
     url: "#skill",
   },
   {
+    id: 3,
     title: "site",
     url: "#site",
   },
   {
+    id: 4,
     title: "portfolio",
     url: "#port",
   },
   {
+    id: 5,
     title: "contact",
     url: "#contact",
   },
