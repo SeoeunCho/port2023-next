@@ -12,7 +12,7 @@ const Header = () => {
     <header id="header" role="heading">
       <div className="header__inner">
         <div className="header__logo">
-          <a href="/">portfolio<em>next.js</em></a>
+          <a href="#intro">portfolio<em>next.js</em></a>
         </div>
         <nav className={`header__nav ${show ? "show" : ""}`} role="navigation" aria-label="메인 메뉴">
           <ul>
